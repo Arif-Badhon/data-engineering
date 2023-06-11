@@ -1,3 +1,8 @@
 .venv
 spotify_dataset.csv
 UserData_13May2023.csv
+.env
+env
+.DS_Strore
+*__pycache__
+.env.development
